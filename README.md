@@ -13,11 +13,12 @@ In this tutorial, you will solve the order-picking path minimization problem, by
 
 ### Part 2: Explore graph properties
 
-### Part 3: Find connected components
+### Part 3: Find graph connected components
 
-### Part 4: Community detection in the largest connected component
+### Part 4: Community detection in the largest connected component of the graph
 
-### Part 5: Evaluate partition
+### Part 5: Evaluate partition of the largest connected component
+
 
 <b>Note</b>: Designed for education purposes. Please do not distribute without permission.
 
