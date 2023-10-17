@@ -8,7 +8,9 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
 
 #### Instructions
 1. Download csv files from 'data' folder.
-2. Load files in colab
+2. Open notebook in colab
+3. Load files in colab
+4. Run notebook
 
 ### Part 1: Generate and visualize network of parts.
 
