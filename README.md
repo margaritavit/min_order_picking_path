@@ -3,7 +3,8 @@
 ## Outline
 
 In this tutorial, you will solve the order-picking path minimization problem, by detecting communities in a graph.
-#### Notebook: https://colab.research.google.com/github/margaritavit/min_order_picking_path/blob/main/workshop__order_picking_opt.ipynb
+#### Notebook
+https://colab.research.google.com/github/margaritavit/min_order_picking_path/blob/main/workshop__order_picking_opt.ipynb
 
 #### Instructions
 1. Download csv files from 'data' folder.
