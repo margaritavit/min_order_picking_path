@@ -14,17 +14,28 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
 
 ### Part 1: Generate and visualize network of parts.
   - Nodes of parts network
-  - Initialize the network of parts
   - Edges of parts network
-  - Visualize resulting network
+  - Visualize parts network
 
 ### Part 2: Explore network properties
+  - Degree distribution
+  - Node strength distribution
 
 ### Part 3: Find network connected components
+  - Connected components
+  - Component Size, Average Clustering Coefficient, Density
+  - Visualize connected components
 
 ### Part 4: Community detection in the largest connected component of the network
+  - Louvain algorithm for community detection (modularity maximization)
 
 ### Part 5: Evaluate partition of the largest connected component
+  - Measures of network partition quality: Modularity, Coverage, Performance
+  - Community size, Average Clustering Coefficient, Density, Intra-community edge strength ratio, Intra-community edge number ratio
+    
+### Part 6: Graph of communities
+  - Similarity between communities
+  - Visualize graph of communities
 
 ## References
 https://academic.oup.com/book/27884  
