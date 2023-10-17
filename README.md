@@ -13,6 +13,10 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
 4. Run notebook
 
 ### Part 1: Generate and visualize network of parts.
+  - Nodes of parts network
+  - Initialize the network of parts
+  - Edges of parts network
+  - Visualize resulting network
 
 ### Part 2: Explore network properties
 
