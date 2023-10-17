@@ -22,6 +22,10 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
 
 ### Part 5: Evaluate partition of the largest connected component
 
+## References
+https://www.sciencedirect.com/science/article/abs/pii/S0370157309002841
+
 
 <b>Note</b>: Designed for education purposes. Please do not distribute without permission.
+
 
