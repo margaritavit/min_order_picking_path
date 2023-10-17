@@ -1,2 +1,3 @@
-# min_order_picking_path
+# Workshop tutorial
+### Designed for education purposes. Please do not distribute without permission
 Order picking path minimization problem
