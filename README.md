@@ -42,6 +42,10 @@ https://academic.oup.com/book/27884
 https://www.sciencedirect.com/science/article/abs/pii/S0370157309002841
 
 ## License
+
+Designed for education purposes. Please do not distribute without permission.   
+Write at m.vitoropoulou@aegeanair.com, christos.grigoras@aegeanair.com if you have any question.
+
 MIT License
 
 Copyright (c) 2023 Margarita Vitoropoulou, Christos Grigoras
@@ -64,6 +68,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-<b>Note</b>: Designed for education purposes. Please do not distribute without permission.
 
 
