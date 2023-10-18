@@ -38,7 +38,7 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
   - Visualize graph of communities
 
 ## References
-https://academic.oup.com/book/27884  
+https://math.bme.hu/~gabor/oktatas/SztoM/Newman_Networks.pdf
 https://www.sciencedirect.com/science/article/abs/pii/S0370157309002841
 
 ## License
