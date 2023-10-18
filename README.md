@@ -41,6 +41,7 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
 https://academic.oup.com/book/27884  
 https://www.sciencedirect.com/science/article/abs/pii/S0370157309002841
 
+## License
 
 <b>Note</b>: Designed for education purposes. Please do not distribute without permission.
 
