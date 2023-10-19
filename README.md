@@ -46,7 +46,7 @@ https://arxiv.org/abs/0803.0476
 ## License
 
 Designed for education purposes. Please do not distribute without permission.   
-Write at m.vitoropoulou@aegeanair.com, christos.grigoras@aegeanair.com if you have any question.
+Write at m.vitoropoulou@aegeanair.com, christos.grigoras@aegeanair.com if you have any questions.
 
 MIT License
 
