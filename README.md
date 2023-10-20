@@ -11,7 +11,7 @@ https://colab.research.google.com/github/margaritavit/min_order_picking_path/blo
 2. Open notebook in colab
 3. Load files in colab
 4. Run notebook
-5. Optional: Try different values in node/edge removal thresholds and resolution input of louvain_communities function. 
+5. Optional: Try different values in node/edge removal thresholds and resolution parameter of louvain_communities function. 
 
 ### Part 1: Generate and visualize network of parts.
   - Nodes of parts network
